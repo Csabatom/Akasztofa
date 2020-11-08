@@ -20,7 +20,7 @@
             android:id="@+id/Btn_Minusz"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:background="@drawable/buttonbackround"
+            android:background="@drawable/buttonbackground"
             android:text="-"
             android:textSize="30sp" />
         <TextView
@@ -35,7 +35,7 @@
             android:id="@+id/Btn_Plusz"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:background="@drawable/buttonbackround"
+            android:background="@drawable/buttonbackground"
             android:text="+"
             android:textSize="30sp" />
     </LinearLayout>
